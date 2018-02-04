@@ -1,2 +1,2 @@
 # codingproblems
-Various Common Problems and Solutions in Java
+Various common problems and their solutions in Java.
