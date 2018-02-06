@@ -7,10 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="codingproblems" />
+        <module name="designpatterns" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="codingproblems" target="1.5" />
+      <module name="designpatterns" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
